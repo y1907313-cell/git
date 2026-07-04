@@ -1,0 +1,50 @@
+﻿# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+._*
+$Recycle.Bin/
+*.lnk
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+
+# Build outputs
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+.pnpm-store/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*~
